@@ -71,7 +71,7 @@
       <AssemblyReference>UiPath.Word</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <ueab:SequenceX DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="444.666666666667,1701.33333333333" sap2010:WorkflowViewState.IdRef="SequenceX_1">
+  <ueab:SequenceX DisplayName="SequenceA" sap:VirtualizedContainerService.HintSize="444.666666666667,1701.33333333333" sap2010:WorkflowViewState.IdRef="SequenceX_1">
     <ueab:SequenceX.Variables>
       <Variable x:TypeArguments="s:Int32[]" Name="array" />
       <Variable x:TypeArguments="scg:List(x:Int32)" Name="list" />
